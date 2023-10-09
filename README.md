@@ -1,3 +1,5 @@
+# PAGE IN PROGRESS
+
 ## Background
 This repository includes a sample PowerBI dashboard that I have built for a client to view and analyse their yearly, monthly and daily ***personal*** financial data. The user uses an iOS app to track all their daily expenses and exports the data via a .csv file from the app.
 
