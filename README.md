@@ -1,6 +1,8 @@
 ## Background
 This repository includes a sample PowerBI dashboard that I have built for a client to view and analyse their yearly, monthly and daily ***personal*** financial data. The user uses an iOS app to track all their daily expenses and exports the data via a .csv file from the app.
 
+_FYI: Client is from Malaysia and hence the currencies, purchasing power, spend, and other economic terms are in the scope of a Malaysian living in Klang Valley_
+
 ## Problem Statement
 Issue arises when the user would like to view the data in a more constructed and efficient manner as the visuals and analysis provided in the built in-app is insufficient. These issues includes, but not limited to:
 * Spend comparison between last month and this month on a daily granularity
