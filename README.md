@@ -8,7 +8,7 @@ Issue arises when the user would like to view the data in a more constructed and
 * Spend comparison between last month and this month on a daily granularity
 * Net worth classifications
 * Customising spend categories under (need, wants and savings)
-* Easily track big anomaly spend by giving a MoM comparison
+* Unable to view previous month(s) and year(s) spend comparisons
 
 ## :dizzy: Methodology
 Extract the .csv file from the source (iOS financial tracking app), load it into PowerBI and do data magic :smiley:
