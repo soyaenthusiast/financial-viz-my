@@ -25,3 +25,28 @@ The client uses this dashboard on a weekly basis to view their financial perform
 Future improvements to be done:
 * Include in predictive models to predict future spend/savings (e.g. 3 month moving average method)
 * Automate data acquisition (at the moment, the source data is updated on a manual basis)
+
+## :robot: Dashbaord Snapshots
+<div>
+  <kbd>
+    <img src="https://github.com/soyaenthusiast/financial-viz-my/blob/main/sample/sample1.png" title="Monthly Overview" alt="Monthly Overview" width="750" height="400"/>&nbsp;
+  </kbd>
+</div>
+----
+<div>
+  <kbd>
+    <img src="https://github.com/soyaenthusiast/financial-viz-my/blob/main/sample/sample2.png" title="Overview" alt="Overview" width="750" height="400"/>&nbsp;
+  </kbd>
+</div>
+----
+<div>
+  <kbd>
+  <img src="https://github.com/soyaenthusiast/financial-viz-my/blob/main/sample/sample3.png" title="Portfolio" alt="Portfolio" width="750" height="400"/>&nbsp;
+  </kbd>
+</div>
+----
+<div>
+<kbd>
+  <img src="https://github.com/soyaenthusiast/financial-viz-my/blob/main/sample/sample4.png" title="Granular" alt="Granular" width="750" height="400"/>&nbsp;
+</kbd>
+</div>
